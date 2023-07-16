@@ -108,5 +108,5 @@ ul li span:hover{
 }
 
 .checked::before{
-  background-image: url(/ToDoList/assets/images/checked.png);
+  background-image: url(../images/checked.png);
 }
